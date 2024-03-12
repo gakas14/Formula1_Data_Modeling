@@ -1,5 +1,5 @@
 # Formula1_Data_Modeling
-### In this project, we got a Formula 1 dataset covering races, drivers, constructors, qualifying, circuits, lap times, pit stops, and championships from 1950 to the 2023 season.
+### In this project, we have a Formula 1 dataset covering races, drivers, constructors, qualifying, circuits, lap times, pit stops, and championships from 1950 to the 2023 season. The data needs to be loaded into a Snowflake database.
 
 
 #### 1. We first load the different datasets into Python and then process some transformations.
